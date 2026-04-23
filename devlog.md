@@ -3,3 +3,4 @@ Configure Tailwind CSS and base global styles
 Add landing page layout with project branding
 Set up project metadata and package scripts
 Add responsive header navigation
+Create hero section for GeoScience Explorer
