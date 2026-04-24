@@ -6,3 +6,4 @@ Add responsive header navigation
 Create hero section for GeoScience Explorer
 Add core feature cards to homepage
 Set up shadcn UI component configuration
+Add reusable button and card components
