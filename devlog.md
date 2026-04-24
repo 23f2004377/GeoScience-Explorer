@@ -8,3 +8,4 @@ Add core feature cards to homepage
 Set up shadcn UI component configuration
 Add reusable button and card components
 Improve homepage spacing and mobile layout
+Add icon support with lucide-react
