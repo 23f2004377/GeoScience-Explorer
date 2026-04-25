@@ -10,3 +10,4 @@ Add reusable button and card components
 Improve homepage spacing and mobile layout
 Add icon support with lucide-react
 Create explore page route
+Add coordinate input form for location search
