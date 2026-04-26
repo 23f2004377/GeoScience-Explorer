@@ -15,3 +15,4 @@ Add validation for latitude and longitude values
 Add browser geolocation support
 Handle location permission and timeout errors
 Sync detected coordinates with input fields
+Add high accuracy options for geolocation requests
