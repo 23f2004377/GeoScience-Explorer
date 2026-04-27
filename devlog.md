@@ -17,3 +17,4 @@ Handle location permission and timeout errors
 Sync detected coordinates with input fields
 Add high accuracy options for geolocation requests
 Improve current location button loading state
+Integrate city search with OpenStreetMap Nominatim
