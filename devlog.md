@@ -22,3 +22,4 @@ Add loading state for city lookup
 Show clear error messages for failed searches
 Add Wikipedia GeoSearch API integration
 Fetch nearby locations from selected coordinates
+Add science keyword filtering for results
