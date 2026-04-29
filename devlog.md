@@ -24,3 +24,4 @@ Add Wikipedia GeoSearch API integration
 Fetch nearby locations from selected coordinates
 Add science keyword filtering for results
 Add initial result loading skeletons
+Fetch Wikipedia article summaries for locations
