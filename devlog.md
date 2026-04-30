@@ -30,3 +30,4 @@ Link location results to source articles
 Add image support for Wikipedia result cards
 Improve fallback UI for missing article images
 Refine science location card layout
+Add badges for science-related results
