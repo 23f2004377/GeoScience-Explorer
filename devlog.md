@@ -28,3 +28,4 @@ Fetch Wikipedia article summaries for locations
 Add result cards with title, summary, and distance
 Link location results to source articles
 Add image support for Wikipedia result cards
+Improve fallback UI for missing article images
