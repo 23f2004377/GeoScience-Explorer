@@ -33,3 +33,4 @@ Refine science location card layout
 Add badges for science-related results
 Improve spacing between result cards
 Add Wikidata enrichment for science locations
+Display additional metadata from linked entities
