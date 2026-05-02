@@ -38,3 +38,4 @@ Improve API error handling for enrichment requests
 Add distance calculation helper for map results
 Sort nearby science locations by distance
 Improve empty state when no locations are found
+Tune search radius and result limit
