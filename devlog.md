@@ -35,3 +35,4 @@ Improve spacing between result cards
 Add Wikidata enrichment for science locations
 Display additional metadata from linked entities
 Improve API error handling for enrichment requests
+Add distance calculation helper for map results
