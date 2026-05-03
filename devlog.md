@@ -41,3 +41,4 @@ Improve empty state when no locations are found
 Tune search radius and result limit
 Add Leaflet map component
 Render selected location on interactive map
+Add markers for nearby science locations
