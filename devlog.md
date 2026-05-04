@@ -42,3 +42,4 @@ Tune search radius and result limit
 Add Leaflet map component
 Render selected location on interactive map
 Add markers for nearby science locations
+Fix Leaflet rendering with dynamic client import
