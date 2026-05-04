@@ -46,3 +46,4 @@ Fix Leaflet rendering with dynamic client import
 Add map loading placeholder
 Prevent server-side rendering issues for map view
 Add popup content for map markers
+Improve map container styling
