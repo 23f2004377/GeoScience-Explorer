@@ -49,3 +49,4 @@ Add popup content for map markers
 Improve map container styling
 Add weather card component
 Integrate Open-Meteo weather API
+Display current weather for selected coordinates
