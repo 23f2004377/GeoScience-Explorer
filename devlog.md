@@ -50,3 +50,4 @@ Improve map container styling
 Add weather card component
 Integrate Open-Meteo weather API
 Display current weather for selected coordinates
+Add loading and error states for weather data
