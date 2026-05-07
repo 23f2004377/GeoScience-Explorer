@@ -54,3 +54,4 @@ Add loading and error states for weather data
 Improve weather card visual hierarchy
 Connect weather refresh to location changes
 Add weather icons and condition labels
+Add dark mode theme provider
