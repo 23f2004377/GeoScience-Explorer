@@ -61,3 +61,4 @@ Create time capsules page
 Add placeholder UI for future capsule features
 Add navigation link for time capsules route
 Add loading page for time capsules route
+Style capsule preview cards
