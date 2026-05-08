@@ -59,3 +59,4 @@ Create theme toggle component
 Polish light and dark color styles
 Create time capsules page
 Add placeholder UI for future capsule features
+Add navigation link for time capsules route
