@@ -57,3 +57,4 @@ Add weather icons and condition labels
 Add dark mode theme provider
 Create theme toggle component
 Polish light and dark color styles
+Create time capsules page
