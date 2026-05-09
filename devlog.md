@@ -64,3 +64,4 @@ Add loading page for time capsules route
 Style capsule preview cards
 Create about page with project overview
 Add public API and tech stack details
+Improve route consistency across pages
