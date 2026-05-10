@@ -68,3 +68,4 @@ Improve route consistency across pages
 Add loading screens for explore and capsules pages
 Improve skeleton states for async content
 Polish responsive spacing across app routes
+Fix mobile layout for explore controls
