@@ -70,3 +70,4 @@ Improve skeleton states for async content
 Polish responsive spacing across app routes
 Fix mobile layout for explore controls
 Update README with project features and workflow
+Document APIs used by GeoScience Explorer
