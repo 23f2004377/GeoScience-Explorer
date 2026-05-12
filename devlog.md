@@ -76,3 +76,4 @@ Finalize homepage copy and footer content
 Clean up imports and component organization
 Prepare GeoScience Explorer for deployment
 Add live demo and demo video links to README
+Run final UI polish before release
