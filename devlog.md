@@ -74,3 +74,4 @@ Document APIs used by GeoScience Explorer
 Add installation and getting started instructions
 Finalize homepage copy and footer content
 Clean up imports and component organization
+Prepare GeoScience Explorer for deployment
