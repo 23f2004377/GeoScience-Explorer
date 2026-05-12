@@ -72,3 +72,4 @@ Fix mobile layout for explore controls
 Update README with project features and workflow
 Document APIs used by GeoScience Explorer
 Add installation and getting started instructions
+Finalize homepage copy and footer content
